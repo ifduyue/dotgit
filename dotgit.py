@@ -1,5 +1,5 @@
 
-__version__ = '0.1.0.dev'
+__version__ = '0.1.0.dev0'
 __author__ = 'Yue Du <ifduyue@gmail.com>'
 __url__ = 'https://github.com/ifduyue/dotgit'
 __license__ = 'BSD 2-Clause License'
